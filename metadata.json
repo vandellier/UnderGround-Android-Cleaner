@@ -1,0 +1,6 @@
+{
+  "name": "UnderGround Android Cleaner",
+  "description": "Production-grade Android cleaner and storage optimizer inspired by terminal forensics with Matrix themes, cache purge, unused app manager, photo optimizer, and system monitor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
